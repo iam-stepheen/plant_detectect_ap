@@ -38,7 +38,6 @@ tensorboard-data-server
 tensorflow
 tensorflow-estimator
 tensorflow-io-gcs-filesystem
-tensorflow-macos
 termcolor
 typing_extensions
 urllib3
